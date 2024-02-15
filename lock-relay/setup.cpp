@@ -1,0 +1,1 @@
+output(door, D1, "turn on", "turn off");
